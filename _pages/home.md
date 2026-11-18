@@ -46,7 +46,7 @@ hidden: true
       </dl>
 
       <p class="hpc-actions" data-reveal style="--i:4">
-        <a class="hpc-btn hpc-btn-white" href="{{ '/call-for-submissions/' | relative_url }}">Submit a contribution</a>
+        <a class="hpc-btn hpc-btn-white" href="{{ '/call-for-submissions/' | relative_url }}">Call for submissions opens on Dec 1</a>
         <a class="hpc-btn hpc-btn-ghost" href="{{ '/past/' | relative_url }}">View previous editions</a>
         <a class="hpc-btn hpc-btn-ghost" href="{{ '/sponsors/' | relative_url }}">Become a sponsor</a>
       </p>
@@ -61,7 +61,7 @@ hidden: true
       <div data-reveal>
        <div data-reveal>
         <h2>Call for contributions</h2>
-        <p>The call opens on 1 December 2026. We welcome workshops, tutorials, talks and posters. Deadlines: 25 January 2027 for workshops and tutorials, 12 March for talks and 16 April for posters.</p>
+        <p>The call opens on 1 December 2026. We welcome workshops, tutorials, talks and posters.</p>
         <p class="hpc-copyrow">
           <a class="hpc-btn hpc-btn-white" href="{{ '/call-for-submissions/' | relative_url }}">Submit a contribution</a>
         </p>
@@ -75,19 +75,19 @@ hidden: true
       Call for contributions opens
     </li>
     <li class="hpc-deadline">
-      <span>25 January 2027</span>
+      <span>TBD January 2027</span>
       <strong>Submission deadline:</strong> Workshops and tutorials
     </li>
     <li class="hpc-deadline">
-      <span>12 March 2027</span>
+      <span>TBD March 2027</span>
       <strong>Submission deadline:</strong> Contributed talks
     </li>
     <li class="hpc-deadline">
-      <span>16 April 2027</span>
+      <span>TBD April 2027</span>
       <strong>Submission deadline:</strong> Posters
     </li>
     <li>
-      <span>14 May 2027</span>
+      <span>TBD May 2027</span>
       Final details due for workshops and tutorials
     </li>
     <li class="hpc-final">
@@ -95,11 +95,13 @@ hidden: true
       Durham HPC Days 2027
     </li>
   </ol>
+
+  <!-- 
   <p class="hpc-more">
     <a href="{{ '/call-for-submissions/' | relative_url }}">
       View submission guidelines and all deadlines →
     </a>
-  </p>
+  </p>-->
 </div>
     </div>
   </section>
@@ -128,6 +130,7 @@ hidden: true
     </div>
   </section>
 
+<!--
   <section class="hpc-band" id="contribute">
     <div class="hpc-in hpc-split">
       <div data-reveal>
@@ -138,7 +141,8 @@ hidden: true
         </p>
       </div>
     </div>
-  </section>
+  </section>-->
+
 
   <section class="hpc-section hpc-alt" id="programme">
     <div class="hpc-in">

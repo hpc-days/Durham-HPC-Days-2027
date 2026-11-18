@@ -30,10 +30,6 @@ hidden: true
     <h1 data-reveal style="--i:1">Past Durham HPC Days</h1>
     <p class="hpc-lede" data-reveal style="--i:2">Explore previous editions of Durham HPC Days, including highlights, photos, and links to full programmes and documentation.</p>
 
-    <p class="hpc-actions" data-reveal style="--i:4">
-      <a class="hpc-btn hpc-btn-white" href="#editions">Browse the editions</a>
-      <a class="hpc-btn hpc-btn-ghost" href="{{ '/' | relative_url }}">Back to Home</a>
-    </p>
   </div>
 </header>
 

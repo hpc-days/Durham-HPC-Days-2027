@@ -32,10 +32,7 @@ hidden: true
       <h1 data-reveal style="--i:1">Sponsor Durham HPC Days 2027</h1>
       <p class="hpc-lede" data-reveal style="--i:2">Meet the researchers, developers, system administrators and vendors working with high-performance computing. Join us in Durham for a week of keynotes, talks, tutorials and workshops.</p>
 
-      <p class="hpc-actions" data-reveal style="--i:4">
-        <a class="hpc-btn hpc-btn-white" href="mailto:{{ contact_email }}?subject=Durham%20HPC%20Days%202027%20sponsorship">Express your interest</a>
-        <a class="hpc-btn hpc-btn-ghost" href="#previous-sponsors">See our 2026 sponsors</a>
-      </p>
+
     </div>
   </header>
 

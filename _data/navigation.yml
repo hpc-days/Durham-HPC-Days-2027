@@ -1,6 +1,4 @@
 main:
-  - title: "Call for submissions"
-    url: /call-for-submissions/
   - title: "Past Durham HPC Days"
     url: /past/
   - title: "Sponsors"
